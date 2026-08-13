@@ -14,7 +14,7 @@ Mawora is designed for farms operating across multiple sites and supports config
 
 The latest Android release is available from the GitHub Releases page.
 
-[Download the latest APK](https://github.com/<owner>/<repo>/releases/latest)
+[Download the latest APK](https://github.com/jomboi8/FarmOperationsRelease/releases/tag/v1.0.0)
 
 The application is also intended for distribution through the Google Play Store.
 
